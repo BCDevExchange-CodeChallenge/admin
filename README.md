@@ -6,7 +6,7 @@ The **BCDevExchange-CodeChallenge** org was created to house private repositorie
 
 These code challenges are used in the hiring process for developer positions with the B.C. government, and for the competition/evaluation process that private companies go through when competing for a [_Sprint With Us_ opportunity](https://www.bcdevexchange.org/opportunities).
 
-## Procedure
+## Use
 
 If you would like to use this space to administer a code challenge, please follow this procedure:
 
