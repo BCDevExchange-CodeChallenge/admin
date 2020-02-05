@@ -19,3 +19,9 @@ Members and Collaborators who no longer need access should be removed so as to f
 ## Adding seats
 
 If you're in a situation where there are a bunch of code challenges running at once and there are no more seats to allocate, an Owner or Billing Manager of the org will need to [purchase more](https://help.github.com/en/articles/upgrading-your-github-subscription#upgrading-your-organizations-subscription).
+
+## Removing collaborators when code challenge is done
+
+When your code challenge has finished, please remove all Outside Collaborators from the repository. This will allow us to reduce the seats needed in the org and keep our monthly costs lower.
+
+Thank you!
