@@ -1,27 +1,27 @@
 # admin
-Docs and instructions for using the **BCDevExchange-CodeChallenge** org
+Please follow these instructions for using the **BCDevExchange-CodeChallenge** org.
 
 ## About
-The **BCDevExchange-CodeChallenge** org was created to house private repos that are used to administer code challenges. 
+The **BCDevExchange-CodeChallenge** org was created to house private repositories for administering code challenges. 
 
-These code challenges are used in the hiring process for developer positions with the BC Government, and for the competition/evaluation process that private companies go through when competing for a [_Sprint With Us_ opportunity](https://www.bcdevexchange.org/opportunities).
+These code challenges are used in the hiring process for developer positions with the B.C. government, and for the competition/evaluation process that private companies go through when competing for a [_Sprint With Us_ opportunity](https://www.bcdevexchange.org/opportunities).
 
-## Requesting access
+## Procedure
 
-If you would like access to this org to create a private code challenge repository or to view past code challenges, please contact Mark.Wilson@gov.bc.ca. 
+If you would like to use this space to administer a code challenge, please follow this procedure:
 
-## Managing seats
+1. Email Mark.Wilson@gov.bc.ca to request access. Mark will make you an Owner of the org so you can create and manage new private repositories.
 
-The BCDevExchange pays a monthly fee for maintaing a small number of 'seats' in this org. Owners, Members, and Collaborators are all counted against the available seats, so we like to keep membership limited and up-to-date.
+2. Create private repositories for your code challenge as necessary. While in a repository, navigate to **Settings > Collaborators & teams** to give individuals access (add collaborators). 
 
-Members and Collaborators who no longer need access should be removed so as to free up seats for current and future code challenges.
+3. If you find that you cannot add a collaborator because there are no more **seats** available, click on '**Buy more**':
 
-## Adding seats
+![Buy more link](https://github.com/BCDevExchange-CodeChallenge/admin/blob/master/buy_more.png)
 
-If you're in a situation where there are a bunch of code challenges running at once and there are no more seats to allocate, an Owner or Billing Manager of the org will need to [purchase more](https://help.github.com/en/articles/upgrading-your-github-subscription#upgrading-your-organizations-subscription).
+As an Owner of the BCDevExchange-CodeChallenge org, you'll have authority to buy more seats to the org. Please only add the exact number of seats you'll need. We (the BCDevExchange) pay for each seat on a monthly basis.
 
-## Removing collaborators when code challenge is done
+4. After you've run your code challenge and the collaborators no longer need access to the repository, navigate again to **Settings > Collaborators & teams** and remove all of the collaborators from the repo.
 
-When your code challenge has finished, please remove all Outside Collaborators from the repository. This will allow us to reduce the seats needed in the org and keep our monthly costs lower.
+5. Lastly, email Mark.Wilson@gov.bc.ca again and tell him you're all done and that he can remove you as an Owner. 
 
-Thank you!
+Thank you! ✌️
