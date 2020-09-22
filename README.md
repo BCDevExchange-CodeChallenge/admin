@@ -4,7 +4,7 @@ Please follow these instructions for using the **BCDevExchange-CodeChallenge** o
 ## About
 The **BCDevExchange-CodeChallenge** org was created to house private repositories for administering code challenges. 
 
-These code challenges are used in the hiring process for developer positions with the B.C. government, and for the competition/evaluation process that private companies go through when competing for a [_Sprint With Us_ opportunity](https://www.bcdevexchange.org/opportunities).
+These code challenges are used in the hiring process for developer positions with the B.C. government, and for the competition/evaluation process that private companies go through when competing for a [_Sprint With Us_ opportunity](https://digital.gov.bc.ca/marketplace/opportunities).
 
 ## Use
 
